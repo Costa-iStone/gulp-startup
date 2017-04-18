@@ -3,14 +3,12 @@
         git
         gulp
         ruby
-
-### CD to the folder
+        
+### Install 
+gulp.js via Mac terminal or Gitbash on a PC > npm install -g gulp
 
 ### Run
 npm install
-
-### Install 
-gulp.js via Mac terminal or Gitbash on a PC > npm install -g gulp
 
 ### Run the Gulp command 
 > gulp
